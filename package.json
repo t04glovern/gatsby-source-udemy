@@ -23,7 +23,7 @@
     "udemy"
   ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "src/gatsby-node.js",
   "peerDependencies": {
     "gatsby": "^2.0.15"
   },
