@@ -1,7 +1,7 @@
 {
   "name": "gatsby-source-udemy",
   "description": "Gatsby source plugin for building websites using Udemy as a data source",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Nathan Glover <nathan@glovers.id.au>",
   "bugs": {
     "url": "https://github.com/t04glovern/gatsby-source-udemy/issues"
